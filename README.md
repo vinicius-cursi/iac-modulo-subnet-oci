@@ -45,7 +45,7 @@ No modules.
 |------|-------------|
 | <a name="output_subnet_cidr"></a> [subnet\_cidr](#output\_subnet\_cidr) | Bloco de IPs da subnet |
 | <a name="output_vcn_cidr"></a> [vcn\_cidr](#output\_vcn\_cidr) | Bloco de IPs da VCN |
-PS D:\Playground_Cursi\Cursi> terraform-docs markdown .\iac-modulo-subnetpriv-oci\
+
 ## Requirements
 
 | Name | Version |
